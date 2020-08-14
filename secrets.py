@@ -1,0 +1,6 @@
+
+client_id = "656750180315-2lk9au8ug1fgs396rnhta80ga2lfqf6u.apps.googleusercontent.com"
+client_secret = "80Q3tluEoV4zHYBslxY3FTXV"
+
+spotify_token = "BQCkduhKxO7FhMYg3ywWYxBYL68ZnEAEDYNukdzueKdYlwC81jzy1-gWDbqQGOjZLhPe19UGwEW5F-f5_aJhYoFvT6pX-OsHZ6CiaqllHg7yAqIVNEOg9khZKU6n9rpUzTIGSllSQxqeNEvTn7fMnENOKXoAIYzn95zEIr1eHleEfmlWhkL7KbY2uEbxbQH7mOl_teGUZ-VCCys6Y25jMqYQkSF0ILrCRFWPwxwrP6IouJJD9q0n9H0H8-gvop1jJlsatwA-i5M"
+spotify_user_id = "jw0204"
